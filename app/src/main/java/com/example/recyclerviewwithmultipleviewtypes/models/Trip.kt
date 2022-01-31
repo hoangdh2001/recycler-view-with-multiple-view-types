@@ -1,7 +1,9 @@
 package com.example.recyclerviewwithmultipleviewtypes.models
 
+import androidx.annotation.DrawableRes
+
 data class Trip(
-    val tripImage: Int,
+    @DrawableRes val tripImage: Int,
     val tripTitle: String,
     val trip: String
 )
