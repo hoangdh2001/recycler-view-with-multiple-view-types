@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DHCN/Android/Kotlin/RecyclerViewWithMultipleViewTypes/app/src/main/res/layout/activity_main.xml" value="0.3220108695652174" />
         <entry key="..\:/DHCN/Android/Kotlin/RecyclerViewWithMultipleViewTypes/app/src/main/res/layout/item_container_ads.xml" value="0.3220108695652174" />
         <entry key="..\:/DHCN/Android/Kotlin/RecyclerViewWithMultipleViewTypes/app/src/main/res/layout/item_container_news.xml" value="0.3220108695652174" />
         <entry key="..\:/DHCN/Android/Kotlin/RecyclerViewWithMultipleViewTypes/app/src/main/res/layout/item_container_trip.xml" value="0.3220108695652174" />
